@@ -1,0 +1,24 @@
+html {
+background-color: #00542F;
+font-size: 14px;
+  font-family: 'Fjalla One', sans-serif;
+font-family: 'Niramit', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 50px 50px 50px;
+  border: 2px solid white;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 2px 2px 1px black;
+}
+img {
+    display: block;
+    margin: 30px auto;
+}
